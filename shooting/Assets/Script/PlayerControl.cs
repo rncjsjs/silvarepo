@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour {
 
-    public float Speed = 0.7f;
+    public float Speed = 0.10f;
     public GameObject bullet;
         
 	void Update () {
