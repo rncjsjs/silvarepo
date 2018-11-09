@@ -11,7 +11,7 @@ public class Autobuilder : MonoBehaviour {
         var flags = BuildOptions.Development;
         Debug.Log("start");
         BuildPipeline.BuildPlayer(scenes, "test.apk", BuildTarget.Android, flags);
-        Debug.L;
+        Debug.Log("end");
 
     }
 
