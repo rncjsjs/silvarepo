@@ -5,7 +5,7 @@ using UnityEditor;
 
 public class Autobuilder : MonoBehaviour {
 
-	public static void BuilGame () {
+	public static void BuildGame () {
 
         var scenes = new string[] { "Assets/3D shooting.unity" };
         var flags = BuildOptions.Development;
