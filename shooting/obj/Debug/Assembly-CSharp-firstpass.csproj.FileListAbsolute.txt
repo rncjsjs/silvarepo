@@ -334,3 +334,5 @@ D:\Git 폴더\shooting\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInp
 D:\Git 폴더\shooting\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
 D:\Git 폴더\shooting\obj\Debug\Assembly-CSharp-firstpass.dll
 D:\Git 폴더\shooting\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Git 폴더\shooting\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\Git 폴더\shooting\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml

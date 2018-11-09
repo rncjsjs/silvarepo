@@ -336,3 +336,5 @@ D:\Git 폴더\shooting\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 D:\Git 폴더\shooting\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\Git 폴더\shooting\obj\Debug\Assembly-CSharp.dll
 D:\Git 폴더\shooting\obj\Debug\Assembly-CSharp.pdb
+D:\Git 폴더\shooting\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\Git 폴더\shooting\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
