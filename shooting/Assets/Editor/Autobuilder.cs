@@ -7,7 +7,7 @@ public class Autobuilder : MonoBehaviour {
 
 	public static void BuildGame () {
 
-        var scenes = new string[] { "Assets/3D shooting.unity" };
+        var scenes = new string[] { "Assets/Scene/3D shooting.unity" };
         var flags = BuildOptions.Development;
         Debug.Log("start");
         BuildPipeline.BuildPlayer(scenes, "test.apk", BuildTarget.Android, flags);
