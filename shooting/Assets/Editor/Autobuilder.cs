@@ -1,9 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System;
 using UnityEngine;
 using UnityEditor;
 
-public class Autobuilder : MonoBehaviour {
+public class Autobuilder {
 
 	public static void BuildGame () {
 
