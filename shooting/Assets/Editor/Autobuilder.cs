@@ -4,7 +4,7 @@ using System;
 using UnityEngine;
 using UnityEditor;
 
-public class Autobuilder {
+public class Autobuilder : MonoBehaviour{
 
 	public static void BuildGame () {
 
