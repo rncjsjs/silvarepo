@@ -1,9 +1,8 @@
 Android
 PlayerPath?
-D:/유니티/교육용 빌드/build01/ouou2.apk
+D:/gits/shooting/test.apk
 SceneListBegin?
 Assets/Scene/3D shooting.unity
-Assets/Scene/Win.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 95c241412033d75da3b2703947abc86e Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExtinguishableParticleSystem

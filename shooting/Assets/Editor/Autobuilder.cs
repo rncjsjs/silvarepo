@@ -10,9 +10,9 @@ public class Autobuilder : MonoBehaviour{
 
         var scenes = new string[] { "Assets/Scene/3D shooting.unity" };
         var flags = BuildOptions.Development;
-        Debug.Log("start");
+        Debug.Log("s#t#a#r#t");
         BuildPipeline.BuildPlayer(scenes, "test.apk", BuildTarget.Android, flags);
-        Debug.Log("end");
+        Debug.Log("e#n#d");
 
     }
 

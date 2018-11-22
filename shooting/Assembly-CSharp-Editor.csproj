@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Editor\Autobuilder.cs" />
     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+    <Compile Include="Assets\Editor\MyMenu.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/gits/shooting/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
